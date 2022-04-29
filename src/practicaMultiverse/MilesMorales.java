@@ -29,7 +29,7 @@ public class MilesMorales extends Spiderman implements Abilities {
 
     @Override
     public void specialAbility() {
-        System.out.println(name + ": uses his natural electricity to shoot electric threads.");
+        System.out.println(name + ": uses his natural electricity to shoot electric threads. \n");
     }
 
     public void comboAbilities() {

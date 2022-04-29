@@ -29,7 +29,7 @@ public class SpiderGirl extends Spiderman implements Abilities{
 
     @Override
     public void specialAbility() {
-        System.out.println(name + ": A skilled gymnast Anya has developed her body's muscles and bones to an extraordinary point allowing her to compress/contort into small cavities, similarly against high impacts to soften the blows.");
+        System.out.println(name + ": A skilled gymnast Anya has developed her body's muscles and bones to an extraordinary point allowing her to compress/contort into small cavities, similarly against high impacts to soften the blows. \n");
     }
 
     public void comboAbilities() {

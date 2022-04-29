@@ -30,7 +30,7 @@ public class SpiderNoir extends Spiderman implements Abilities{
 
     @Override
     public void specialAbility() {
-        System.out.println(name + ": Unlike the traditional Spider-Man," + name + " uses his acrobatic agility to maneuver about the rooftops.");
+        System.out.println(name + ": Unlike the traditional Spider-Man," + name + " uses his acrobatic agility to maneuver about the rooftops. \n");
     }
 
     public void comboAbilities() {
