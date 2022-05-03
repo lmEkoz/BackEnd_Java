@@ -7,11 +7,13 @@ public class TheKillingJoke {
         Joker Joker = new Joker();
         Gordon Gordon = new Gordon();
         Man Man = new Man();
+        Woman Woman = new Woman();
 
         Scenery.start();
         Batman.start();
         Joker.start();
         Gordon.start();
         Man.start();
+        Woman.start();
     }
 }

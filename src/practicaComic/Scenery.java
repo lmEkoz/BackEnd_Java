@@ -14,7 +14,7 @@ public class Scenery extends Thread{
             Thread.sleep(7000); //22
             System.out.println("*Where is he?*");
             System.out.println("**In an abandoned carnival** \n");
-            Thread.sleep(9000); //31
+            Thread.sleep(7000); //29
             System.out.println("**At Jokers house** \n");
 
             long ending = System.currentTimeMillis();
